@@ -1,4 +1,4 @@
-# AI Email SaaS
+# AI Email SaaS - MailWise
 
 A modular AI-powered email productivity platform built as a full-stack JavaScript application.
 
